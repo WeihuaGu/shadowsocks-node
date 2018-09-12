@@ -86,3 +86,6 @@ Supported Ciphers
 - camellia-256-cfb
 - camellia-192-cfb
 - camellia-128-cfb
+
+##### 如果要使用443端口而不是80
+使用 -s wss://still-tor-8707.herokuapp.com:443
