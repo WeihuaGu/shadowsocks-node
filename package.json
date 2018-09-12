@@ -1,5 +1,5 @@
 {
-  "name": "shadowsocks-heroku",
+  "name": "shadowsocks-node",
   "version": "0.9.10",
   "dependencies": {
     "bufferutil": "^3.0.3",
